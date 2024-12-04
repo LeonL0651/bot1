@@ -1,0 +1,26 @@
+{
+    "BTC/EUR": {
+        "amount": 5.0109525601129376e-05,
+        "entry_price": 91165.9,
+        "take_profit": 92559.8607142857,
+        "stop_loss": 89771.93928571428
+    },
+    "USDT/EUR": {
+        "amount": 18.40172395669084,
+        "entry_price": 0.9513,
+        "take_profit": 0.9536357142857144,
+        "stop_loss": 0.9489642857142857
+    },
+    "XRP/EUR": {
+        "amount": 4.368202091375886,
+        "entry_price": 2.40129,
+        "take_profit": 2.642787857142857,
+        "stop_loss": 2.159792142857143
+    },
+    "USDC/EUR": {
+        "amount": 6.607845199284888,
+        "entry_price": 0.9509,
+        "take_profit": 0.952967857142857,
+        "stop_loss": 0.9488321428571429
+    }
+}
