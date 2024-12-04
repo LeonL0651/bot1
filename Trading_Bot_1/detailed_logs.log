@@ -1,3 +1,0 @@
-2024-12-02 21:39:28.975682 - Fehler beim Platzieren der Order für USDT/EUR: kraken {"error":["EGeneral:Invalid arguments:volume minimum not met"]}
-2024-12-02 21:39:34.241454 - Fehler beim Platzieren der Order für EUR/USD: kraken {"error":["EOrder:Insufficient funds"]}
-2024-12-03 17:55:32.586349 - Fehler beim Platzieren der Order für EUR/USD: kraken {"error":["EOrder:Insufficient funds"]}
